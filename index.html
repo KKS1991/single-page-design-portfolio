@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700&display=swap" rel="stylesheet"> 
   
   <!-- Carousel -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
 
   <title>Frontend Mentor | Single-page design portfolio</title>
 </head>
@@ -77,11 +77,8 @@
     <section class="carousel-section">
       <h3 class="title | carousel-title">My Work</h3>
 
-      <!-- Slider main container -->
-      <div class="swiper">
-        <!-- Additional required wrapper -->
+      <div class="swiper mySwiper">
         <div class="swiper-wrapper">
-          <!-- Slides -->
           <div class="swiper-slide">
             <img src="/assets/image-slide-1.jpg" alt="">
           </div>
@@ -98,16 +95,8 @@
             <img src="/assets/image-slide-5.jpg" alt="">
           </div>
         </div>
-
-        <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
+        <div class="swiper-pagination"></div>
       </div>
-
-      
-      
-
 
     </section>
 
@@ -133,7 +122,7 @@
   </footer>
 
   <!-- JS -->
-  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
   <script src="main.js"></script>
 
 </body>

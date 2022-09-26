@@ -321,7 +321,10 @@ header {
 /* Carousel-Section */
 
 .carousel-section {
-  margin-bottom: 2rem;
+
+  height: 100%;
+
+  margin-bottom: 10rem;
 }
 
 .carousel-title {
@@ -333,11 +336,13 @@ header {
 
 .swiper {
   width: 100%;
-  height: 100%;
-  
+  height: 70%;
 }
 
 .swiper-slide {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
   text-align: center;
   background: var(--clr-medium-brown);
 
@@ -357,6 +362,8 @@ header {
 
 .swiper-slide img {
   display: block;
+  position: relative;
+  border-radius: 10px;
   width: 100%;
   height: 100%;
   object-fit: cover;
