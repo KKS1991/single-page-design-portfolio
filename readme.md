@@ -54,11 +54,11 @@ JS is further my final boss. It cost me a lot of time to implement the slider an
 
 ## Author
 
-- ![Website](https://www.kevinschupp.de/)
-- ![Frontend Mentor](https://www.frontendmentor.io/profile/KKS1991)
-- ![Instagram](https://www.instagram.com/kks1991/)
-- ![Xing](https://www.xing.com/profile/Kevin_Schupp3)
-- ![Linkedin](https://www.linkedin.com/in/kevin-schupp-968a5a162/)
+- [Website](https://www.kevinschupp.de/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/KKS1991)
+- [Instagram](https://www.instagram.com/kks1991/)
+- [Xing](https://www.xing.com/profile/Kevin_Schupp3)
+- [Linkedin](https://www.linkedin.com/in/kevin-schupp-968a5a162/)
 
 ## Acknowledgments
 
