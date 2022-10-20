@@ -28,9 +28,9 @@ Users should be able to:
 
 ![Desktop-Version](/assets/ss_desktop.png)
 
-![Mobile-Version](/assets/ss_mobile.png)
-
 ![Tablet-Version](/assets/ss_tablet.png)
+
+![Mobile-Version](/assets/ss_mobile.png)
 
 ### Links
 
