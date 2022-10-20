@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-Version](/assets/ss_desktop.jpg)
+![Desktop-Version](/assets/ss_desktop.png)
 
-![-Version](/assets/ss_mobile.jpg)
+![Mobile-Version](/assets/ss_mobile.png)
 
 ### Links
 
