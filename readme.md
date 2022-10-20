@@ -28,6 +28,8 @@ Users should be able to:
 
 ![Desktop-Version](/assets/ss_desktop.png)
 
+![Tablet-Version](/assets/ss_tablet.png)
+
 ![Mobile-Version](/assets/ss_mobile.png)
 
 ### Links
